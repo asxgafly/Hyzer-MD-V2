@@ -1,1 +1,1 @@
-worker: npm node .
+worker: node .
